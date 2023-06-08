@@ -9,7 +9,7 @@ An API key from OpenWeatherMap
 #Installation
 Clone this repository to your local machine.
 Open the index.html file in a web browser.
-Enter your OpenWeatherMap API key in the API_KEY variable in the weather.js file.
+Enter your OpenWeatherMap API key in the API_KEY variable in script tag in HTML file.
 Click on the "Get Weather" button.
 #Usage
 The weather app will show the current temperature, humidity, and wind speed in the following format:
