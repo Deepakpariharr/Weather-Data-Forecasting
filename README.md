@@ -18,11 +18,14 @@ Current temperature: 20 degrees Celsius
 Current humidity: 50%
 Current wind speed: 10 kilometers per hour
 
-Try Now https://deepakpariharr.github.io/Weather-App/
-
-
-
 ![Weather-App]( https://deepakpariharr.github.io/Weather-App/)
+Try Now https:
+
+
+
+![Weather-App](https://github.com/Deepakpariharr/Weather-App/assets/96336425/82b0ebdf-a50a-489b-ba86-1a317ecd88c4)
+
+
 
 
 
