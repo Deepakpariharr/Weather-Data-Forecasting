@@ -22,7 +22,7 @@ Try Now https://deepakpariharr.github.io/Weather-App/
 
 
 
-![Weather-App](https://github.com/Deepakpariharr/Weather-App/assets/96336425/db7adc73-85fd-4134-860f-b4af867a0245)
+![Weather-App]( https://deepakpariharr.github.io/Weather-App/)
 
 
 
