@@ -19,7 +19,7 @@ Current humidity: 50%
 Current wind speed: 10 kilometers per hour
 
 
-Try Now https://deepakpariharr.github.io/Weather-App/
+Try Now https://deepakpariharr.github.io/Weather-Forecasting-App/
 
 
 
