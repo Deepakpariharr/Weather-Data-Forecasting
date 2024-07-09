@@ -1,7 +1,7 @@
 # Weather-App
-Weather finding site using HTML,CSS,JavaScript
+Weather finding site using HTML, CSS, JavaScript
 
-This is a simple weather app that shows the current temperature, humidity, and wind speed in kilometers per hour. It is written in HTML, CSS, and JavaScript.
+This is a simple weather app that shows the current temperature, humidity, and wind speed in kilometers per hour. It is written in HTML, CSS, and JavaScript, Bootstrap.
 
 #Requirements
 A web browser
